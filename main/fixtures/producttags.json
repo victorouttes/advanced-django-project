@@ -1,0 +1,56 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Aventura",
+    "slug": "aventura",
+    "description": "Filmes de aventura",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Romance",
+    "slug": "romance",
+    "description": "Filmes de romance",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Drama",
+    "slug": "drama",
+    "description": "Filmes de drama",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "A\u00e7\u00e3o",
+    "slug": "acao",
+    "description": "Filmes de ação",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Fic\u00e7\u00e3o Cientifica",
+    "slug": "ficcao-cientifica",
+    "description": "Filmes de ficção",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Com\u00e9dia",
+    "slug": "comedia",
+    "description": "Filmes de comédia",
+    "active": true
+  }
+}
+]
